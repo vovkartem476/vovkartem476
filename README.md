@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">Hi, I’m Artem</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif" alt="Snake GIF">
@@ -6,7 +6,7 @@
 
 <!---
 
-- 👋 Hi, I’m @vovkartem476
+- 👋 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
